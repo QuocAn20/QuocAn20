@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuocAn20
-- 👀 I’m interested in Code C# and Python
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# and Python
+- 👀 I’m interested in Code Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java and Angular
 - 📫 How to reach me to be a good SE
 
 <!---
